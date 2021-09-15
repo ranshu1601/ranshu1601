@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranshu1601&label=Profile%20views&color=0e75b6&style=flat" alt="ranshu1601" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranshu1601" alt="ranshu1601" /></a> </p>
+<p><image align="right" src="https://github.com/ranshu1601/ranshu1601/blob/main/cloud_computing.gif" width="320" height="320" /></p>
 
 <p align="left"> <a href="https://twitter.com/anshuperiple" target="blank"><img src="https://img.shields.io/twitter/follow/anshuperiple?logo=twitter&style=for-the-badge" alt="anshuperiple" /></a> </p>
 
 - 🔭 I’m currently working on **To do list based on python**
 
 - 📫 How to reach me **ranshu1601@gmail.com**   
-<p><image align="right" src="https://github.com/ranshu1601/ranshu1601/blob/main/cloud_computing.gif" width="300" height="320" /></p>
 
 
 - ⚡ Interests **𝐈 𝐡𝐚𝐯𝐞 𝐤𝐞𝐞𝐧 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠**
