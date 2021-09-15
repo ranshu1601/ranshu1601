@@ -3,7 +3,7 @@
 <h3 align="center" style="font-family:cursive" >𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 <p><image align="right" src="https://github.com/ranshu1601/ranshu1601/blob/main/got.gif" width="320" height="320" /></p>
 
-<p> <image src="https://github.com/ranshu1601/ranshu1601/blob/main/foliopic.jpg" width= "350" height="390" class="center"/> </p>
+<p> <image src="https://github.com/ranshu1601/ranshu1601/blob/main/foliopic.jpg" width= "450" height="490" class="center"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranshu1601&label=Profile%20views&color=0e75b6&style=flat" alt="ranshu1601" /> </p>
 
