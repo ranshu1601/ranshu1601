@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm 𝐀𝐧𝐬𝐡𝐮 𝐑𝐚𝐧𝐣𝐚𝐧 ♡</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p> <image align="center" src="https://github.com/ranshu1601/ranshu1601/blob/main/foliopic.jpg" width= "240" height="340"/> </p>
+
+<p> <image align="center" src="https://github.com/ranshu1601/ranshu1601/blob/main/foliopic.jpg" width= "420" height="340"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranshu1601&label=Profile%20views&color=0e75b6&style=flat" alt="ranshu1601" /> </p>
 
