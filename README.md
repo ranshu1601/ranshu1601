@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on **To do list based on python**
 
-- 📫 How to reach me **ranshu1601@gmail.com**
+- 📫 How to reach me **ranshu1601@gmail.com**   
+<p><image align="right" src="https://github.com/ranshu1601/upgarded_portfolio/blob/main/lol.gif" width="500" height="320" /></p>
+
 
 - ⚡ Interests **𝐈 𝐡𝐚𝐯𝐞 𝐤𝐞𝐞𝐧 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠**
 
