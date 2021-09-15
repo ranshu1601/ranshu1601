@@ -1,8 +1,8 @@
 
-<h1 align="center">**ℌ𝔢𝔩𝔩𝔬** 👋, I'm 𝐀𝐧𝐬𝐡𝐮 𝐑𝐚𝐧𝐣𝐚𝐧 ♡</h1>
+<h1 align="center"> ℌ𝔢𝔩𝔩𝔬 👋, I'm 𝐀𝐧𝐬𝐡𝐮 𝐑𝐚𝐧𝐣𝐚𝐧 ♡</h1>
 <h3 align="center" style="font-family:cursive" >𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
-<p> <image align="center" src="https://github.com/ranshu1601/ranshu1601/blob/main/foliopic.jpg" width= "350" height="340"/> </p>
+<p> <image class="center" src="https://github.com/ranshu1601/ranshu1601/blob/main/foliopic.jpg" width= "350" height="340"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranshu1601&label=Profile%20views&color=0e75b6&style=flat" alt="ranshu1601" /> </p>
 
