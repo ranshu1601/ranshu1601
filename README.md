@@ -13,6 +13,8 @@
 
 - 🔭 I’m currently working on **To do list based on python**
 
+- ⌨️ My personal website <a href="https://anshuu.netlify.app/">anshuu.netlify</a> 
+
 - 📫 How to reach me **ranshu1601@gmail.com**   
 
 
