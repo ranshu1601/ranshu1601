@@ -16,7 +16,7 @@
 - 📫 How to reach me **ranshu1601@gmail.com**   
 
 
-- ⚡ Interests **𝐈 𝐡𝐚𝐯𝐞 𝐤𝐞𝐞𝐧 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐭𝐨𝐰𝐚𝐫𝐝𝐬 Website Development **
+- ⚡ Interests **𝐈 𝐡𝐚𝐯𝐞 𝐤𝐞𝐞𝐧 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐭𝐨𝐰𝐚𝐫𝐝𝐬 Website Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
