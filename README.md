@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranshu1601&label=Profile%20views&color=0e75b6&style=flat" alt="ranshu1601" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranshu1601" alt="ranshu1601" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="ranshu1601" /></a> </p>
 <p><image align="right" src="https://github.com/ranshu1601/ranshu1601/blob/main/cloud_computing.gif" width="320" height="320" /></p>
 
 <p align="left"> <a href="https://twitter.com/anshuperiple" target="blank"><img src="https://img.shields.io/twitter/follow/anshuperiple?logo=twitter&style=for-the-badge" alt="anshuperiple" /></a> </p>
