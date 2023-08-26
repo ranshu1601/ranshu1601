@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/anshuperiple" target="blank"><img src="https://img.shields.io/twitter/follow/anshuperiple?logo=twitter&style=for-the-badge" alt="anshuperiple" /></a> </p>
 
-- 🔭 I’m currently working on **To do list based on python**
+- 🔭 I’m currently working on **Myself**
 
 - ⌨️ My personal website <a href="https://anshuu.netlify.app/">anshuu.netlify</a> 
 
