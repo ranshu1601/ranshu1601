@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranshu1601&label=Profile%20views&color=0e75b6&style=flat" alt="ranshu1601" /> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ranshu1601&theme=ambient-gradient&border_radius=75&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox" alt="ranshu1601" /></a> </p>
-<p><image align="right" src="https://github.com/ranshu1601/ranshu1601/blob/main/cloud_computing.gif" width="320" height="320" /></p>
 
 <p align="left"> <a href="https://twitter.com/anshuperiple" target="blank"><img src="https://img.shields.io/twitter/follow/anshuperiple?logo=twitter&style=for-the-badge" alt="anshuperiple" /></a> </p>
 
