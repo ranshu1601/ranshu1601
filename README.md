@@ -8,7 +8,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ranshu1601&theme=ambient-gradient&border_radius=75&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://twitter.com/anshuperiple" target="blank"><img src="https://img.shields.io/twitter/follow/anshuperiple?logo=twitter&style=for-the-badge" alt="anshuperiple" /></a> </p>
 
 - 🔭 I’m currently working on **Myself**
 
