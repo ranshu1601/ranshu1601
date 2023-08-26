@@ -26,7 +26,7 @@
 <a href="https://twitter.com/anshuperiple" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshuperiple" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anshuranjann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anshu-ranjan-1601/" height="30" width="40" /></a>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ranshu1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ranshu1601" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ranshu1601/articles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ranshu1601" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
